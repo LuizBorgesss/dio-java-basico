@@ -13,5 +13,6 @@ public class Ex6Fatorial {
             multiplicacao = multiplicacao * i;
         }
         System.out.println(multiplicacao);
+        scan.close();
     }
-}
+}    
