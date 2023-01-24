@@ -11,7 +11,7 @@ public class ExMesada {
         int mesada = 50;
         System.out.println("Se você juntar o seu dinheiro por " + entrada + " meses " + " Você terá = " + entrada * mesada + " reais");
         
-
+        scan.close();
     }
     }
 
