@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f516878a-d438-4cb5-b117-834f31e04aa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExemploMap/src/ExemploOrdenacaoMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExemploSet/src/ExercicioProposto1.java" afterDir="false" />
-    </list>
+    <list default="true" id="f516878a-d438-4cb5-b117-834f31e04aa5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +24,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/luize/Documents/java/dio/dio-java-basico/StreamAPI"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
